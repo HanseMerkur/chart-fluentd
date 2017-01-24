@@ -1,0 +1,8 @@
+---
+name: "fluentd"
+home: "https://github.com/HanseMerkur"
+sources:
+- "https://github.com/HanseMerkur/chart-fluentd"
+version: "0.0.1"
+description: "[Fluentd](http://www.fluentd.org/) is an open source data collector\
+  \ for unified logging layer."

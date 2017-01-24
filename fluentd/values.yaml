@@ -1,0 +1,5 @@
+Name: fluentd
+Image: "fabric8/fluentd-kubernetes"
+ImageTag: "v1.20"
+ImagePullPolicy: "Always"
+KubernetesVerifySSL: "true"
